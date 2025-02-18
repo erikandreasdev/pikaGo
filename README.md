@@ -1,6 +1,3 @@
-I'll create a comprehensive README.md file for your pikaGo project:
-
-```markdown
 # pikaGo
 
 A lightweight system tray application for controlling screen brightness in Linux systems using X11.
