@@ -1,0 +1,13 @@
+# Binary
+pikaGo
+
+# Debian package
+*.deb
+
+# IDE files (if you use VS Code or other IDEs)
+.idea/
+.vscode/
+
+# Go build and debug files
+debug
+debug.test
