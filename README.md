@@ -1,5 +1,6 @@
 # pikaGo
 
+![PikaGo Icon](assets/usage.png)
 A lightweight system tray application for controlling screen brightness in Linux systems using X11.
 
 ## Features

@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-//go:embed icon.png
+//go:embed assets/icon.png
 var iconBytes []byte
 
 type BrightnessControl struct {
