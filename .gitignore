@@ -1,5 +1,4 @@
-# Binary
-pikaGo
+
 
 # Debian package
 *.deb
@@ -11,3 +10,4 @@ pikaGo
 # Go build and debug files
 debug
 debug.test
+/build/
